@@ -1,5 +1,5 @@
 ### Archivos del repositorio:
--#**Western Town:**
+# -**Western Town:**
   - **Memoria del proyecto:** Incluye fase de diseño, modelado, texturizado, animación y exportación a motor de videojuegos.
   - **Animación Dinamita:** Simulación mediante físicas de la destrucción de un muro en partes más pequeñas.
   - **Animaciones Personaje:** Animaciones básicas del personaje principal (skinning y rigging). Andar, correr, enfado y espera.
