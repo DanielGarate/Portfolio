@@ -1,6 +1,6 @@
 # Archivos del repositorio:
 ## **Western Town:**
-  
+  #### El jugador controla a Jhon Harrington y debe encontrar la manera de entrar al famoso Salón del pueblo.
 
   - **Memoria del proyecto:** Incluye fase de diseño, modelado, texturizado, animación y exportación a motor de videojuegos.
   - **Animación Dinamita:** Simulación mediante físicas de la destrucción de un muro en partes más pequeñas.
