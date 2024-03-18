@@ -8,4 +8,5 @@
   - **Gameplay del juego:** Muestra el resultado de las exportaciones de los modelos y animaciones al motor de juegos Unity
     
 ## **Construction Ware:**
-  #### Un minijuego en el que el jugador desata el caos disparando esferas de metal en un escenario 3D de una obra ficticia.
+  #### Un minijuego en el que el jugador desata el caos disparando esferas de metal en un escenario 3D de una casa en obras ficticia.
+  #### Se ha utilizado un paquete de assets 3D (https://dekogon.notion.site/Construction-f9174218183f4aaf8978ee00307119c9)
