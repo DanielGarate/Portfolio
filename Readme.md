@@ -41,7 +41,7 @@
 
 ## **Obstacle Hell:**
    #### A 3D third-person mini parkour game where the player must navigate obstacles to reach the final goal.
-Used Assets:
+  - **Used Assets:
 
 ## **The Mystery of the Crypt:**
    #### A 3D escape game set in the Middle Ages where the player must find a way to escape from a dungeon.
