@@ -30,10 +30,10 @@
 ## **Western Town:**
   #### The player controls Jhon Harrington and must find a way to enter the famous Town Hall.
   
-  - **Project Memo: Includes design phase, modeling, texturing, animation, and export to the game engine.
-  - **Dynamite Animation: Simulation using physics for the destruction of a wall into smaller parts.
-  - **Character Animations: Basic animations of the main character (skinning and rigging). Walk, run, anger, and idle.
-  - **Gameplay Footage: Shows the result of model and animation exports to the Unity game engine.
+  - **Project Memo:** Includes design phase, modeling, texturing, animation, and export to the game engine.
+  - **Dynamite Animation:** Simulation using physics for the destruction of a wall into smaller parts.
+  - **Character Animations:** Basic animations of the main character (skinning and rigging). Walk, run, anger, and idle.
+  - **Gameplay Footage:** Shows the result of model and animation exports to the Unity game engine.
 
 ## **Construction Ware:**
    #### A mini-game where the player wreaks havoc by shooting metal spheres in a 3D stage of a fictitious construction site.
