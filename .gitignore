@@ -1,7 +1,7 @@
 .vs/
 
 # Asset packages
-asfasf/Content/Construction_VOL2/
+asfasf/Content/Construction_VOL2/*
 
 
 # Compiled Object files
