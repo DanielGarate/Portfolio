@@ -29,6 +29,12 @@
   - **Assets utilizados:** https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2
 
 
+## **UI Projects:**
+  #### Esta carpeta incluye proyectos de desarrollo de interfaz de usuario y experiencia de usuario. Todas las interfaces han sido desarrolladas siguiendo los proncipios de accesibilidad y usabilidad (https://www.w3.org/WAI/fundamentals/accessibility-principles/#time)
+  
+  - **Cooking Risks:** La interfaz de Cooking risks ha sido desarrollada para niños utilizando colores y formas simples. El objetivo del juego es enseñar los peligros de la cocina y las precauciones a tomar.
+  - **The Mystery of the Crypt:** Esta interfaz está integrada en el escenario para dar una experiencia más inmersiva al usuario.
+
 
 --------------------------------------------------------------------------------
 
