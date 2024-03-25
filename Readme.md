@@ -30,10 +30,11 @@
 
 
 ## **UI Projects:**
-  #### Esta carpeta incluye proyectos de desarrollo de interfaz de usuario y experiencia de usuario. Todas las interfaces han sido desarrolladas siguiendo los proncipios de accesibilidad y usabilidad (https://www.w3.org/WAI/fundamentals/accessibility-principles/#time)
+  #### Esta carpeta incluye proyectos de desarrollo de interfaz y experiencia de usuario. Todas las interfaces han sido desarrolladas siguiendo los proncipios de accesibilidad y usabilidad (https://www.w3.org/WAI/fundamentals/accessibility-principles/#time)
   
   - **Cooking Risks:** La interfaz de Cooking risks ha sido desarrollada para niños utilizando colores y formas simples. El objetivo del juego es enseñar los peligros de la cocina y las precauciones a tomar. Se han hecho 3 posibles diseños.
-  - **The Mystery of the Crypt:** Esta interfaz está integrada en el escenario para dar una experiencia más inmersiva al usuario.
+  - **The Mystery of the Crypt:** Esta interfaz de un juego de escape está integrada en el escenario para dar una experiencia más inmersiva al usuario.
+  - **Hopeless:** Proyecto grupal con la herramienta Justinmind.
 
 
 --------------------------------------------------------------------------------
@@ -74,3 +75,4 @@
   
   - **Cooking Risks:** Cooking Risks interface has been developed for kids using simple colors and shapes. The objective of the game is to teach kitchen risks and precautions to take. 3 possible designs have been made.
   - **The Mystery of the Crypt:** This interface is integrated in the scenery to inmerse the user.
+  - **Hopeless:** Group project with Justinmind.
