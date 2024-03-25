@@ -1,7 +1,8 @@
 .vs/
 
 # Asset packages
-[Cc]ontent/Construction_VOL2
+/Content/Construction_VOL2/
+
 
 # Compiled Object files
 *.slo
