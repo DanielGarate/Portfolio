@@ -1,5 +1,0 @@
-.vs/
-
-# Asset packages
-/Content/Construction_VOL2/
-
